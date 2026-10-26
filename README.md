@@ -18,7 +18,7 @@ Start publisher
 node mqtt-publisher.js
 ```
 
-Start backend
+Start listener 
 ```bash
 npm start
 ```
