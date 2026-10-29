@@ -12,6 +12,7 @@ Start broker
 ```bash
 node mock-broker.js
 ```
+Note for older Node versions: node --experimental-require-module mock-broker.js  
 
 Start publisher
 ```bash
